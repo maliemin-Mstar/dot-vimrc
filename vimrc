@@ -20,6 +20,7 @@ set cursorline cursorcolumn
 
 " search operations
 set incsearch
+set hlsearch
 "set highlight 	" conflict with highlight current line
 set ignorecase
 set smartcase
