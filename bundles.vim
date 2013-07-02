@@ -16,10 +16,10 @@ Bundle 'jnwhiteh/vim-golang'
 "------------------
 " Code Completions
 "------------------
-Bundle 'Shougo/neocomplcache'
+Bundle 'Shougo/neocomplcache.vim'
 Bundle 'garbas/vim-snipmate'
 Bundle 'ervandew/supertab'
-Bundle 'honza/snipmate-snippets'
+Bundle 'honza/vim-snippets'
 Bundle 'mattn/zencoding-vim'
 " snipmate dependencies
 Bundle 'MarcWeber/vim-addon-mw-utils'
